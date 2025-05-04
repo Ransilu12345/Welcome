@@ -1,2 +1,0 @@
-# Welcome
-👋 Hi there! I’m an aspiring Software Engineer with a passion for solving real-world problems through tech. Currently studying Computer Science and exploring Python, web development, AI, and data science. I enjoy building projects, learning new tools, and growing with every challenge.
